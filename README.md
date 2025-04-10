@@ -4,6 +4,6 @@
 
 🖥️ Incoming Sales Engineer Intern @ Precisely
 
-⚛️ Exploring Neural Networks, Full Stack Development, & GIS through my current coursework.
+⚛️ Exploring Neural Networks, Full Stack Development, & GIS through my current coursework
 
 Projects posted on here are mainly personal projects / some coursework. 
