@@ -2,7 +2,7 @@
 
 🧪 Previous PM intern @ healthcare tech unicorn Innovaccer (worked on APIs for patient data access)
 
-🖥️ Incoming Sales Engineer Intern @ Precisely
+🖥️ Incoming Solutions Engineer Intern @ Precisely
 
 ⚛️ Exploring Neural Networks, Full Stack Development, & GIS through my current coursework
 
