@@ -1,9 +1,5 @@
-## Hi! I'm Piyal, a current undergraduate @ UC Berkeley. 
+## Hi! I'm Piyal, a recent UC Berkeley alum!
 
-🧪 Previous PM intern @ healthcare tech unicorn Innovaccer (worked on APIs for patient data access)
+Previous Data Engineer intern @ Amazon & previous Software Engineer Contractor @ Cisco working on agentic security for browser agents 
 
-🖥️ Solutions Engineer Intern @ Precisely
-
-⚛️ Exploring Neural Networks, Full Stack Development, & GIS through my current coursework
-
-📓 Projects posted on here are mainly personal projects / some coursework 
+Projects here are primarily personal projects & coursework!
